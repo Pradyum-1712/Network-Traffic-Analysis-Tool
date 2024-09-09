@@ -1,0 +1,4 @@
+scapy==2.4.5
+pyshark==0.4.2.13
+matplotlib==3.7.1
+pandas==2.0.3
